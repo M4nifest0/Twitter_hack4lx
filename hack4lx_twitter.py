@@ -3,7 +3,7 @@ try:
         from termcolor import colored
         import time
 except ImportError:
-        print("install hack4lx v2.53.6 , termcolor \n\tpip install hack4lx==2.53.6\n\tapt-get install python-termcolor")
+        print("install hack4lx v2.53.6 , termcolor \n\tpip install selenium==2.53.6\n\tapt-get install python-termcolor")
 try:
         print(colored("\n\t\tplease wait\n\n","red"))
         time.sleep(1)
